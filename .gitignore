@@ -1,0 +1,12 @@
+bin/
+libs/
+*DS_Store
+obj/
+local.properties
+gen/
+xcuserdata/
+*.so
+*.o
+*.class
+*.apk
+*.d
